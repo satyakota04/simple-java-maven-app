@@ -7,7 +7,7 @@ import static org.junit.jupiter.api.Assertions.assertFalse;
 import static org.junit.jupiter.api.Assertions.assertNotNull;
 
 /**
- * Unit test for simple App.
+ * Unit test for simple App. aaw
  */
 public class App2Test
 {
