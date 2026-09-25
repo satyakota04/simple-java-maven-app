@@ -1,5 +1,6 @@
 package com.mycompany.app;
 
+import io.harness.agent.sdk.HarnessAlwaysRun;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
@@ -19,6 +20,7 @@ public class AppTest
     }
 
     @Test
+    @HarnessAlwaysRun
     public void testAppMessage()
     {
         App app = new App();
