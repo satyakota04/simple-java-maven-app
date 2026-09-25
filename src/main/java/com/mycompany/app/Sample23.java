@@ -2,6 +2,7 @@ package com.mycompany.app;
 
 /**
  * Sample utility class 23 for demonstration tests.
+ * Touched so Test Intelligence sees a source diff.
  */
 public final class Sample23 {
 
